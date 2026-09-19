@@ -83,8 +83,4 @@ This project does not currently include a license file. If you intend to publish
 
 ## Author
 
-MoCorps
-
-## Status
-
-Work in progress / prototype project.
+Mokhtar Kortebi and Oscar Thiebaut
