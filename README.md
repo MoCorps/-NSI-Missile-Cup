@@ -81,6 +81,6 @@ This is a prototype/school project and may still be evolving. Some elements may 
 
 This project does not currently include a license file. If you intend to publish or share it publicly, consider adding one.
 
-## Author
+## Authors
 
 Mokhtar Kortebi and Oscar Thiebaut
