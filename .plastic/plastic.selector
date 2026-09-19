@@ -1,0 +1,4 @@
+repository "(NSI) Rocket League 2D/(NSI) Rocket League 2D@3573927896216@cloud"
+  path "/"
+    br "/main"
+    co "/main"
